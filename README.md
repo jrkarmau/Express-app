@@ -1,3 +1,3 @@
-# Express-app
+## express app
 
-Repository with app and configs for DevOps with docker exercise 3.1.
+Access with browser http://localhost:8080
